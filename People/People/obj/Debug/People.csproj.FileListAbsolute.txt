@@ -78,7 +78,11 @@ D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.csprojR
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.MainPage.xaml.g.cs
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.pdb
-D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
-D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Newtonsoft.Json.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLite.Net.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLitePCLRaw.batteries_green.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLitePCLRaw.core.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Newtonsoft.Json.xml
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
 D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb

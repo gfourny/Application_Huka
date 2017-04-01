@@ -41,6 +41,7 @@
     </Compile>
     <Compile Include="Models\Aliments.cs" />
     <Compile Include="AlimentsRepository.cs" />
+    <Compile Include="Models\Boisson.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

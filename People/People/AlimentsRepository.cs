@@ -35,6 +35,8 @@ namespace People
 			{
 				StatusMessage = string.Format("Failed to add {0}. Error: {1}", name, ex.Message);
 			}
+
+            await conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
 		}
 
 		public Task<List<Aliments>> GetAllAlimentsAsync()
