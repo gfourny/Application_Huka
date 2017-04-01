@@ -1,5 +1,7 @@
 People.sln
 /packages
+/.vs
+/People/People/bin
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
