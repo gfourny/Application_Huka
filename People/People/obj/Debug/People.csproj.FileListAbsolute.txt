@@ -1,0 +1,84 @@
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\People.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\People.pdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\SQLite-net.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\SQLitePCL.batteries.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\SQLitePCL.raw.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Core.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Platform.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\SQLite-net.xml
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Core.pdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Core.xml
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\obj\Debug\People.MainPage.xaml.g.cs
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\obj\Debug\People.dll
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\obj\Debug\People.pdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\obj\Debug\People.dll.mdb
+C:\YNOV Formation\16 - xam160-data-in-mobile\Lab Materials\Part 04 Resources\Completed\People\People\bin\Debug\People.dll.mdb
+C:\worshop\Completed\People\People\bin\Debug\People.dll
+C:\worshop\Completed\People\People\bin\Debug\People.pdb
+C:\worshop\Completed\People\People\bin\Debug\SQLite-net.dll
+C:\worshop\Completed\People\People\bin\Debug\SQLitePCL.batteries.dll
+C:\worshop\Completed\People\People\bin\Debug\SQLitePCL.raw.dll
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Core.dll
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Platform.dll
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\worshop\Completed\People\People\bin\Debug\SQLite-net.xml
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Core.pdb
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Core.xml
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\worshop\Completed\People\People\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\worshop\Completed\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\worshop\Completed\People\People\obj\Debug\People.MainPage.xaml.g.cs
+C:\worshop\Completed\People\People\obj\Debug\People.dll
+C:\worshop\Completed\People\People\obj\Debug\People.pdb
+C:\worshop\Completed\People\People\obj\Debug\People.dll.mdb
+C:\worshop\Completed\People\People\bin\Debug\People.dll.mdb
+C:\worshop\Completed\Insulino\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+C:\worshop\Completed\Insulino\People\People\obj\Debug\People.MainPage.xaml.g.cs
+C:\worshop\Completed\Insulino\People\People\obj\Debug\People.dll
+C:\worshop\Completed\Insulino\People\People\obj\Debug\People.pdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\People.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\People.pdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\SQLite-net.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\SQLitePCL.batteries.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\SQLitePCL.raw.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Core.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Platform.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\SQLite-net.xml
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Core.pdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Core.xml
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Newtonsoft.Json.dll
+C:\worshop\Completed\Insulino\People\People\bin\Debug\Newtonsoft.Json.xml
+C:\worshop\Completed\Insulino\People\People\obj\Debug\People.dll.mdb
+C:\worshop\Completed\Insulino\People\People\bin\Debug\People.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.pdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLite-net.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLitePCL.batteries.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLitePCL.raw.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Core.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Platform.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\SQLite-net.xml
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Core.pdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Core.xml
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.csprojResolveAssemblyReference.cache
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.MainPage.xaml.g.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.pdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb

@@ -1,0 +1,14 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\people\people\bin\debug\people.dll" HashGuid="1dd2a712-e950-2069-b1f8-59a89bca1892" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\sqlite-net-pcl.1.1.2\lib\portable-net45+wp8+wpa81+win8+monoandroid10+monotouch10+xamarin.ios10\sqlite-net.dll" HashGuid="382cf316-94da-83f2-801c-5849044c8843" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\sqlitepcl.bundle_green.0.9.3\lib\win81\sqlitepcl.batteries.dll" HashGuid="f454b16c-61db-998b-5a30-b9178be2bada" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\sqlitepcl.raw.0.9.3\lib\win81\sqlitepcl.raw.dll" HashGuid="0ebfe792-71de-e383-fad8-e17076cac3a8" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\sqlitepcl.plugin.sqlite3.win81.0.9.3\lib\win81\sqlitepclplugin_esqlite3.dll" HashGuid="65318555-4391-7af6-1cee-89198df1a991" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\xamarin.forms.2.3.1.114\lib\win81\xamarin.forms.core.dll" HashGuid="af180b9a-aa51-0944-927e-c6473cd8810f" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\xamarin.forms.2.3.1.114\lib\win81\xamarin.forms.platform.dll" HashGuid="6b938cd4-44c0-2618-7eb6-4caa3f482076" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\xamarin.forms.2.3.1.114\lib\win81\xamarin.forms.platform.winrt.dll" HashGuid="9252d1f6-d345-6b4f-eb93-61537b95eb17" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\xamarin.forms.2.3.1.114\lib\win81\xamarin.forms.platform.winrt.tablet.dll" HashGuid="57732495-6836-491a-fcfc-a4531cfdd6bc" />
+    <ReferenceAssembly PathName="c:\ynov formation\16 - xam160-data-in-mobile\lab materials\part 04 resources\completed\packages\xamarin.forms.2.3.1.114\lib\win81\xamarin.forms.xaml.dll" HashGuid="68924db8-a65f-e414-d0af-af182cfb1786" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
