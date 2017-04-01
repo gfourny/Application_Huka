@@ -8,7 +8,7 @@ namespace People
     {
         public MainPage()
         {
-            InitializeComponent();            
+            InitializeComponent();
         }
 
         public async void OnNewButtonClicked(object sender, EventArgs args)

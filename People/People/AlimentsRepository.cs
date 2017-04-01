@@ -17,6 +17,8 @@ namespace People
 		{
 			conn = new SQLiteAsyncConnection(dbPath);
             conn.CreateTableAsync<Aliments>().Wait();
+
+            //conn.InsertAsync(new Aliments { Name = "burger", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
 		}
 
 		public async Task AddNewAlimentsAsync(string name)

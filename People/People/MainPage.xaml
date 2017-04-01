@@ -34,10 +34,10 @@
               Grid.Row="4">
             <ListView.ItemTemplate>
                 <DataTemplate>
-                    <ViewCell Height="30">
-                        <StackLayout Padding="5">
-                            <Label 
-                Text="{Binding Name}" />
+                    <ViewCell Height="100">
+                        <StackLayout Padding="2">
+                            <Label Text="{Binding Name}" />
+                            <Label Text="{Binding Glucide}"/>
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
