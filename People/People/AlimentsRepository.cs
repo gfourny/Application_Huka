@@ -42,14 +42,24 @@ namespace People
             await conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
 		}
 
-		public Task<List<Aliments>> GetAllAlimentsAsync()
-		{
+        public void CreateDatabase()
+        {
             Task<int> empty = conn.Table<Aliments>().CountAsync();
 
             if (empty.Result == 0)
             {
                 conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "Royal Deluxe", Glucide = 12.8F, SucreLent = 1.4F, SucreRapide = 11.4F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "Big Mac", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+                conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
             }
+        }
+
+		public Task<List<Aliments>> GetAllAlimentsAsync()
+		{
             return conn.Table<Aliments>().ToListAsync();
 		}
     }

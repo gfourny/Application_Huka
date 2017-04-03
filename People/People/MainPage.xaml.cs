@@ -11,6 +11,7 @@ namespace People
         public MainPage()
         {
             InitializeComponent();
+            App.AlimentRepo.CreateDatabase();
         }
 
         public async void OnNewButtonClicked(object sender, EventArgs args)
