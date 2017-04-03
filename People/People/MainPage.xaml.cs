@@ -14,19 +14,9 @@ namespace People
             App.AlimentRepo.CreateDatabase();
             
         }
-
-        public async void OnNewButtonClicked(object sender, EventArgs args)
-        {
-            statusMessage.Text = "";
-                        
-            await App.AlimentRepo.AddNewAlimentsAsync(newPerson.Text);
-            statusMessage.Text = App.AlimentRepo.StatusMessage;
-        }
         
         public async void OnGetButtonClicked(object sender, EventArgs args)
         {
-            statusMessage.Text = "";
-
             ObservableCollection<Aliments> aliments = 
                 new ObservableCollection<Aliments>(
                     await App.AlimentRepo.GetAllAlimentsAsync());
