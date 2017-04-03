@@ -49,10 +49,3 @@ D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Collections.Concurrent.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Runtime.InteropServices.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Diagnostics.Tools.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\Newtonsoft.Json.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Xml.XDocument.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Text.Encoding.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\System.Text.Encoding.Extensions.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\Microsoft.CSharp.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\assets\Mono.CSharp.dll

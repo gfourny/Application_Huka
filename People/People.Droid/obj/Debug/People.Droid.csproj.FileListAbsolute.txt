@@ -252,7 +252,6 @@ D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Platform.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Newtonsoft.Json.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\People.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\FormsViewGroup.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\FormsViewGroup.dll.mdb
@@ -266,7 +265,6 @@ D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Newtonsoft.Json.xml
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\bin\com.xamarin.People.Droid.apk
