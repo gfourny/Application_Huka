@@ -23,10 +23,15 @@ namespace People
         {
             statusMessage.Text = "";
 
-            ObservableCollection<Aliments> aliments = 
+            /*ObservableCollection<Aliments> aliments = 
                 new ObservableCollection<Aliments>(
                     await App.AlimentRepo.GetAllAlimentsAsync());
-            peopleList.ItemsSource = aliments;
+            peopleList.ItemsSource = aliments;*/
+
+            Json json = new Json();
+
+            string jsonReader = json.Reader();
+            peopleList.ItemsSource = jsonReader;
         }
     }
 }

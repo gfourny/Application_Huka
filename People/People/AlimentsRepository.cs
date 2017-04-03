@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using People.Models;
 using SQLite;
 using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.IO;
 
 namespace People
 {
@@ -44,6 +46,7 @@ namespace People
 		{
             //return a list of aliments saved to the Aliments table in the database
 			return conn.Table<Aliments>().ToListAsync();
-		}
+		}       
+
 	}
 }

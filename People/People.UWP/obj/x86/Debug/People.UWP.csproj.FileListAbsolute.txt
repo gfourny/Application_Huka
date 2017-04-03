@@ -9,3 +9,14 @@ C:\worshop\Completed\People\People.UWP\obj\x86\Debug\MainPage.xaml
 C:\worshop\Completed\People\People.UWP\obj\x86\Debug\App.xbf
 C:\worshop\Completed\People\People.UWP\obj\x86\Debug\MainPage.xbf
 C:\worshop\Completed\People\People.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\People.UWP.csprojResolveAssemblyReference.cache
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\App.g.i.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\App.g.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\MainPage.g.i.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\MainPage.g.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\App.xaml
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\MainPage.xaml
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\App.xbf
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\MainPage.xbf
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\obj\x86\Debug\XamlSaveStateFile.xml
