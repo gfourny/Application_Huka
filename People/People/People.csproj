@@ -41,7 +41,6 @@
     </Compile>
     <Compile Include="Models\Aliments.cs" />
     <Compile Include="AlimentsRepository.cs" />
-    <Compile Include="Models\Json.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -88,7 +87,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\ExempleJson.json" />
     <None Include="packages.config" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
