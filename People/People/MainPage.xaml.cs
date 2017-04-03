@@ -1,5 +1,7 @@
-﻿using People.Models;
+﻿using Newtonsoft.Json.Linq;
+using People.Models;
 using System;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 namespace People
@@ -23,15 +25,10 @@ namespace People
         {
             statusMessage.Text = "";
 
-            /*ObservableCollection<Aliments> aliments = 
+            ObservableCollection<Aliments> aliments = 
                 new ObservableCollection<Aliments>(
                     await App.AlimentRepo.GetAllAlimentsAsync());
-            peopleList.ItemsSource = aliments;*/
-
-            Json json = new Json();
-
-            string jsonReader = json.Reader();
-            peopleList.ItemsSource = jsonReader;
+            peopleList.ItemsSource = aliments;
         }
     }
 }

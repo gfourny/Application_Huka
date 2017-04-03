@@ -3,62 +3,59 @@
   {
     "MacDo": 
     {
-        "Menu": 
+        "Burger": 
         {
-          "Burger": 
+          "Nom":
           {
-            "Nom":
+            "RoyalDeluxe":
             {
-              "RoyalDeluxe":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              },
-              "BigMac":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              }
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
+            },
+            "BigMac":
+            {
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
             }
-          },
+          }
+        },
           
-          "Boisson":
+        "Boisson":
+        {
+          "Nom":
           {
-            "Nom":
+            "CocaCola":
             {
-              "CocaCola":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              },
-              "Orangina":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              }
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
+            },
+            "Orangina":
+            {
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
             }
-          },
+          }
+        },
           
-          "Dessert":
+        "Dessert":
+        {
+          "Nom":
           {
-            "Nom":
+            "McFleury":
             {
-              "McFleury":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              },
-              "Sunday":
-              {
-                "Glucide": 1,
-                "SucreLent": 1,
-                "SucreRapide":1
-              }
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
+            },
+            "Sunday":
+            {
+              "Glucide": 1,
+              "SucreLent": 1,
+              "SucreRapide":1
             }
           }
         }

@@ -5,12 +5,13 @@ using System.Text;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.IO;
+using Newtonsoft.Json.Linq;
+using System.Collections.ObjectModel;
 
 namespace People.Models
 {
     public class Json
     {
-
         public static Stream GenerateStreamFromString(string s)
         {
             MemoryStream stream = new MemoryStream();
@@ -30,13 +31,20 @@ namespace People.Models
             {
                 StreamReader strm = new StreamReader(s);
                 response = strm.ReadToEnd();
+                return response;
             }
-
-            List<Json> json = JsonConvert.DeserializeObject<List<Json>>(response);
-
-            return json.ToString();
         }
         
+        public IList<JToken> Deserializing()
+        {
+
+            JObject json = JObject.Parse(Reader());
+
+            IList<JToken> results = json["FastFood"].Children().ToList();
+            return results;
+        }
+
+
     }
     
 

@@ -5,12 +5,14 @@ using SQLite;
 using System.Threading.Tasks;
 using Newtonsoft.Json;
 using System.IO;
+using System.Collections.ObjectModel;
+using Xamarin.Forms;
 
 namespace People
 {
 	public class AlimentsRepository
 	{
-		private readonly SQLiteAsyncConnection conn;
+        private readonly SQLiteAsyncConnection conn;
 
 		public string StatusMessage { get; set; }
 
@@ -18,9 +20,7 @@ namespace People
 		{
 			conn = new SQLiteAsyncConnection(dbPath);
             conn.CreateTableAsync<Aliments>().Wait();
-
-            //conn.InsertAsync(new Aliments { Name = "burger", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
-		}
+        }
 
 		public async Task AddNewAlimentsAsync(string name)
 		{
@@ -44,9 +44,13 @@ namespace People
 
 		public Task<List<Aliments>> GetAllAlimentsAsync()
 		{
-            //return a list of aliments saved to the Aliments table in the database
-			return conn.Table<Aliments>().ToListAsync();
-		}       
+            Task<int> empty = conn.Table<Aliments>().CountAsync();
 
-	}
+            if (empty.Result == 0)
+            {
+                conn.InsertAsync(new Aliments { Name = "coca", Glucide = 2.2F, SucreLent = 0.3F, SucreRapide = 12.8F }).ConfigureAwait(continueOnCapturedContext: false);
+            }
+            return conn.Table<Aliments>().ToListAsync();
+		}
+    }
 }

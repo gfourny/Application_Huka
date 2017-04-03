@@ -86,5 +86,3 @@ D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
 D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb
-D:\belli\Bureau\workshop\Application_Huka\People\People\obj\Debug\People.dll.mdb
-D:\belli\Bureau\workshop\Application_Huka\People\People\bin\Debug\People.dll.mdb
