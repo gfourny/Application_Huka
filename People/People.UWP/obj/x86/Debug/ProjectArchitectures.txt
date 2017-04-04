@@ -1,0 +1,2 @@
+D:\belli\Bureau\workshop\Application_Huka\People\People.UWP\People.UWP.csproj;x86
+D:\belli\Bureau\workshop\Application_Huka\People\People\People.csproj;neutral

@@ -11,7 +11,6 @@ namespace People
         {
             InitializeComponent();
             App.AlimentRepo.CreateDatabase();
-            
         }
 
 

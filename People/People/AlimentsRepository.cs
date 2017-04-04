@@ -219,6 +219,7 @@ namespace People
 
         public Task<List<Aliments>> GetDetailsAliment(string alimentName)
         {
+            //Permet de récupérer les propriété d'un aliment sélectionner dans la BdD
             return conn.Table<Aliments>().Where(y => y.Name.Contains(alimentName)).ToListAsync(); ;
         }
     }

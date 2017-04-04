@@ -229,7 +229,6 @@ C:\worshop\Completed\Insulino\People\People.Droid\obj\Debug\android\assets\Xamar
 C:\worshop\Completed\Insulino\People\People.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 C:\worshop\Completed\Insulino\People\People.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 C:\worshop\Completed\Insulino\People\People.Droid\obj\Debug\People.Droid.dll.mdb
-D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.csprojResolveAssemblyReference.cache
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\People.Droid.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\People.Droid.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\com.xamarin.People.Droid.apk
@@ -265,6 +264,7 @@ D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.csprojResolveAssemblyReference.cache
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.dll
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\People.Droid.pdb
 D:\belli\Bureau\workshop\Application_Huka\People\People.Droid\obj\Debug\android\bin\com.xamarin.People.Droid.apk
