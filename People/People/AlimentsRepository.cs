@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using People.Models;
 using SQLite;
 using System.Threading.Tasks;
+using System.Collections.ObjectModel;
 
 namespace People
 {
@@ -215,5 +216,10 @@ namespace People
 		{
             return conn.Table<Aliments>().ToListAsync();
 		}
+
+        public Task<List<Aliments>> GetDetailsAliment(string alimentName)
+        {
+            return conn.Table<Aliments>().Where(y => y.Name.Contains(alimentName)).ToListAsync(); ;
+        }
     }
 }

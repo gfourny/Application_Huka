@@ -27,7 +27,7 @@
                 <DataTemplate>
                     <ViewCell Height="100">
                         <StackLayout Padding="2">
-                            <Button x:Name="aliment" Text="{Binding Name}" Clicked="aliment_Clicked" />
+                            <Button x:Name="btAliment" Text="{Binding Name}" Clicked="aliment_Clicked" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>

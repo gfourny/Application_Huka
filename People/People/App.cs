@@ -11,7 +11,7 @@ namespace People
 			//set database path first, then retrieve main page
 			AlimentRepo = new AlimentsRepository(dbPath);
 
-			this.MainPage = new MainPage();
-		}
+            MainPage = new NavigationPage(new MainPage());
+        }
 	}
 }

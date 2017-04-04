@@ -1,13 +1,11 @@
-﻿using Newtonsoft.Json.Linq;
-using People.Models;
+﻿using People.Models;
 using System;
-using System.Collections.Generic;
 using System.Collections.ObjectModel;
 using Xamarin.Forms;
 
 namespace People
 {
-    public partial class MainPage : Page
+    public partial class MainPage 
     {
         public MainPage()
         {
@@ -27,8 +25,9 @@ namespace People
 
         private async void aliment_Clicked(object sender, EventArgs e)
         {
-            //ObservableCollection<Aliments> aliments = new ObservableCollection<Aliments>(await App.AlimentRepo.GetAllAlimentsAsync());
-            //this.peopleList = new ListView();
+            string s = (sender as Button).Text;
+            Details detail = new Details(s);
+            await Navigation.PushAsync(detail);
         }
     }
 }

@@ -22,7 +22,7 @@
                 <DataTemplate>
                     <ViewCell Height="100">
                         <StackLayout Padding="2">
-                            <Label x:Name="aliment" Text="{Binding Glucide}" Clicked="aliment_Clicked" />
+                            <Label x:Name="aliment" Text="{Binding Glucide}" />
                         </StackLayout>
                     </ViewCell>
                 </DataTemplate>
